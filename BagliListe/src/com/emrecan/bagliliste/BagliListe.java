@@ -42,6 +42,7 @@ public class BagliListe extends BagliListeADT{
             eklenecekDugum.birSonrakiDugum = null;
         }
         boyut++;
+
     }
 
     @Override
@@ -51,7 +52,7 @@ public class BagliListe extends BagliListeADT{
         if(ilkDugum == null){
             ilkDugum = eklenecekDugum;
         }else{
-            Dugum geziciDugum = ilkDugum;
+            Dugum geziciDugum = ilkDugum; //pozisyon=1
             for(int i = 0; i < pozisyon; i++){
                 if(geziciDugum != null){
                     if(geziciDugum.birSonrakiDugum != null){               //tek tek değerleri gezip sonuncuya gidene kadar(son dediğim bizim verdiğimiz pozisyona gidene kadar), her bir değeri geziciDugume atıyoruz.
@@ -77,6 +78,7 @@ public class BagliListe extends BagliListeADT{
             ilkDugum = geciciDugum;
         }
         boyut--;
+
     }
 
     @Override
@@ -175,5 +177,14 @@ public class BagliListe extends BagliListeADT{
             }
         }
         return dugumElemanlari;
+
+
     }
+
+
+
+
+
+
+
 }

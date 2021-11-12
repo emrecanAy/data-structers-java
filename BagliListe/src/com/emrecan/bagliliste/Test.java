@@ -12,11 +12,11 @@ public class Test {
 
         String listeElemanlari = bagliListe.elemanlariYazdir();
 
-        System.out.println(listeElemanlari);
+        //System.out.println(listeElemanlari);
 
         bagliListe.pozisyonaEkle(2, 100);
         listeElemanlari = bagliListe.elemanlariYazdir();
-        System.out.println(listeElemanlari);
+       // System.out.println(listeElemanlari);
 
         bagliListe.basiSil();
         listeElemanlari = bagliListe.elemanlariYazdir();
@@ -32,14 +32,20 @@ public class Test {
 
 
         /* ÖDEV METODLARI */
-        bagliListe.pozisyondanSil(1);
+        //bagliListe.pozisyondanSil(1);
+        //listeElemanlari = bagliListe.elemanlariYazdir();
+        //System.out.println(listeElemanlari);
+
+        //bagliListe.pozisyondakiDugumuGetir(1);
+        //System.out.println(bagliListe.pozisyondakiDugumuGetir(1).veri);
+
+        bagliListe.sonaEkle(7);
         listeElemanlari = bagliListe.elemanlariYazdir();
         System.out.println(listeElemanlari);
 
-        bagliListe.pozisyondakiDugumuGetir(1);
-        System.out.println(bagliListe.pozisyondakiDugumuGetir(1).veri);
-
-
+        bagliListe.sonaEkle(16);
+        listeElemanlari = bagliListe.elemanlariYazdir();
+        System.out.println(listeElemanlari);
 
     }
 
