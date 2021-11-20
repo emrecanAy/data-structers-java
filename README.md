@@ -11,6 +11,6 @@ Homework: Bracket Control App (Parantez Kontrol Uygulaması)
 
 ###Queue (Kuyruk)
 ```
-Queue-Array Implementation (Yığın-Dizi Uygulaması)
-Queue-LinkedList Implementation (Yığın-Bağlı Liste Uygulaması)
+Queue-Array Implementation (Kuyruk-Dizi ile Uygulanması)
+Queue-LinkedList Implementation (Kuyruk-Bağlı Liste ile Uygulanması)
 ```
