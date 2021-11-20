@@ -60,6 +60,10 @@ public class Stack extends StackADT{
         return stack[idx];
     }
 
+    /**
+     * Returns last added element from stack.
+     * @return if stack is empty returns -1.
+     */
     @Override
     public int top() {
         if(isEmpty()){
