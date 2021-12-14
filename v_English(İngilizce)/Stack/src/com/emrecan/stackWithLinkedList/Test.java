@@ -14,25 +14,23 @@ public class Test {
         System.out.println(stack.isEmpty());
 
         //pushing to stack tests!
-        stack.push(8);
-        System.out.println("8 pushed!");
-        stack.push(13);
-        System.out.println("13 pushed!");
         stack.push(5);
-        System.out.println("5 pushed!");
+        stack.push(3);
+        System.out.println(stack.pop());
+        stack.push(2);
+        stack.push(8);
+        System.out.println(stack.pop());
+        System.out.println(stack.pop());
+        stack.push(9);
+        stack.push(1);
+        System.out.println(stack.pop());
         stack.push(7);
-        System.out.println("7 pushed!");
-        stack.push(53);
-        System.out.println("53 pushed!");
-
-
-        //pop from stack tests!
-        System.out.println("Element removed from top of stack : " + stack.pop());
-        System.out.println("Element removed from top of stack : " + stack.pop());
-
-        //get top element from stack tests!
-        System.out.println("Element from top of stack : " + stack.top());
-
+        stack.push(6);
+        System.out.println(stack.pop());
+        System.out.println(stack.pop());
+        stack.push(4);
+        System.out.println(stack.pop());
+        System.out.println(stack.pop());
     }
 
 }

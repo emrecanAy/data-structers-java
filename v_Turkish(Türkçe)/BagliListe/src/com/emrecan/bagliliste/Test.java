@@ -5,6 +5,19 @@ public class Test {
     public static void main(String[] args) {
 
         BagliListe bagliListe = new BagliListe();
+
+        bagliListe.sonaEkle(1);
+        bagliListe.sonaEkle(2);
+        bagliListe.sonaEkle(3);
+        bagliListe.sonaEkle(4);
+        bagliListe.sonaEkle(5);
+        bagliListe.sonaEkle(6);
+        String elemanlar = bagliListe.elemanlariYazdir();
+        System.out.println(bagliListe.terstenSirala());
+
+
+
+        /*
         bagliListe.basaEkle(4);
         bagliListe.basaEkle(3);
         bagliListe.basaEkle(2);
@@ -30,6 +43,8 @@ public class Test {
         //listeElemanlari = bagliListe.elemanlariYazdir();
         //System.out.println(listeElemanlari);
 
+         */
+
 
         /* ÖDEV METODLARI */
         //bagliListe.pozisyondanSil(1);
@@ -39,6 +54,7 @@ public class Test {
         //bagliListe.pozisyondakiDugumuGetir(1);
         //System.out.println(bagliListe.pozisyondakiDugumuGetir(1).veri);
 
+        /*
         bagliListe.sonaEkle(7);
         listeElemanlari = bagliListe.elemanlariYazdir();
         System.out.println(listeElemanlari);
@@ -46,6 +62,8 @@ public class Test {
         bagliListe.sonaEkle(16);
         listeElemanlari = bagliListe.elemanlariYazdir();
         System.out.println(listeElemanlari);
+
+         */
 
     }
 

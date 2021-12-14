@@ -11,7 +11,9 @@ public abstract class BagliListeADT {
     public abstract void sonuSil();
     public abstract void pozisyondanSil(int pozisyon);
     public abstract Dugum pozisyondakiDugumuGetir(int pozisyon);
+
     public abstract String elemanlariYazdir();
+
 
 }
 

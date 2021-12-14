@@ -10,6 +10,8 @@ package com.emrecan.bagliliste;
 public class BagliListe extends BagliListeADT{
 
 
+    private static Dugum ilkDugum;
+
     @Override
     public void basaEkle(int deger) {
          Dugum eklenecekDugum = new Dugum(deger);
@@ -149,6 +151,8 @@ public class BagliListe extends BagliListeADT{
 
     }
 
+
+
     /* TEST
     public Integer pozisyondakiDugumuGetirr(int pozisyon) {
 
@@ -177,6 +181,28 @@ public class BagliListe extends BagliListeADT{
             }
         }
         return dugumElemanlari;
+
+
+    }
+
+    public Dugum terstenSirala(Dugum ilkDugum){
+
+        if (ilkDugum == null){
+            return ilkDugum;
+        }
+
+        Dugum geziciDugum = ilkDugum;
+        Dugum birOnceki = null;
+        Dugum birSonraki = null;
+
+        while (geziciDugum != null){
+            birSonraki = geziciDugum.birSonrakiDugum;
+            geziciDugum.birSonrakiDugum = birOnceki;
+            birOnceki = geziciDugum;
+            geziciDugum = birSonraki;
+        }
+        return birOnceki;
+
 
 
     }

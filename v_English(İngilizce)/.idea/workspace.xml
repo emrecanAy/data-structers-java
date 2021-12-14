@@ -2,68 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e364b983-e843-4827-9d79-7ef58e224b21" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../BagliListe/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BagliListe/.idea/discord.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BagliListe/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BagliListe/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BagliListe/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BagliListe/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BagliListe/BagliListe.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BagliListe/out/production/BagliListe/com/emrecan/bagliliste/BagliListe.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BagliListe/out/production/BagliListe/com/emrecan/bagliliste/BagliListeADT.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BagliListe/out/production/BagliListe/com/emrecan/bagliliste/Dugum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BagliListe/out/production/BagliListe/com/emrecan/bagliliste/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BagliListe/src/com/emrecan/bagliliste/BagliListe.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BagliListe/src/com/emrecan/bagliliste/BagliListeADT.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BagliListe/src/com/emrecan/bagliliste/Dugum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BagliListe/src/com/emrecan/bagliliste/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kuyruk/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kuyruk/.idea/discord.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kuyruk/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kuyruk/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kuyruk/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kuyruk/Kuyruk.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kuyruk/out/production/Kuyruk/com/emrecan/KuyrukBagliListeVeriYapisi/Kuyruk.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kuyruk/out/production/Kuyruk/com/emrecan/KuyrukBagliListeVeriYapisi/KuyrukDugumu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kuyruk/out/production/Kuyruk/com/emrecan/KuyrukBagliListeVeriYapisi/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kuyruk/out/production/Kuyruk/com/emrecan/KuyrukDiziVeriYapisi/Kuyruk.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kuyruk/out/production/Kuyruk/com/emrecan/KuyrukDiziVeriYapisi/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kuyruk/src/com/emrecan/KuyrukBagliListeVeriYapisi/Kuyruk.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kuyruk/src/com/emrecan/KuyrukBagliListeVeriYapisi/KuyrukDugumu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kuyruk/src/com/emrecan/KuyrukBagliListeVeriYapisi/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kuyruk/src/com/emrecan/KuyrukDiziVeriYapisi/Kuyruk.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kuyruk/src/com/emrecan/KuyrukDiziVeriYapisi/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Yigin/BagliListeYiginVeriYapisi/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Yigin/BagliListeYiginVeriYapisi/.idea/discord.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Yigin/BagliListeYiginVeriYapisi/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Yigin/BagliListeYiginVeriYapisi/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Yigin/BagliListeYiginVeriYapisi/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Yigin/BagliListeYiginVeriYapisi/BagliListeYiginVeriYapisi.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Yigin/BagliListeYiginVeriYapisi/out/production/BagliListeYiginVeriYapisi/com/emrecan/bagliListeYiginVeriYapisi/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Yigin/BagliListeYiginVeriYapisi/out/production/BagliListeYiginVeriYapisi/com/emrecan/bagliListeYiginVeriYapisi/YiginBagliListe.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Yigin/BagliListeYiginVeriYapisi/out/production/BagliListeYiginVeriYapisi/com/emrecan/bagliListeYiginVeriYapisi/YiginDugum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Yigin/BagliListeYiginVeriYapisi/src/com/emrecan/bagliListeYiginVeriYapisi/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Yigin/BagliListeYiginVeriYapisi/src/com/emrecan/bagliListeYiginVeriYapisi/YiginBagliListe.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Yigin/BagliListeYiginVeriYapisi/src/com/emrecan/bagliListeYiginVeriYapisi/YiginDugum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Yigin/DiziYiginVeriYapisi/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Yigin/DiziYiginVeriYapisi/.idea/discord.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Yigin/DiziYiginVeriYapisi/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Yigin/DiziYiginVeriYapisi/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Yigin/DiziYiginVeriYapisi/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Yigin/DiziYiginVeriYapisi/DiziYiginVeriYapisi.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Yigin/DiziYiginVeriYapisi/out/production/DiziYiginVeriYapisi/com/emrecan/diziYiginVeriYapisi/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Yigin/DiziYiginVeriYapisi/out/production/DiziYiginVeriYapisi/com/emrecan/diziYiginVeriYapisi/Yigin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Yigin/DiziYiginVeriYapisi/src/com/emrecan/diziYiginVeriYapisi/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Yigin/DiziYiginVeriYapisi/src/com/emrecan/diziYiginVeriYapisi/Yigin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Yigin/YiginParantezKontrol/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Yigin/YiginParantezKontrol/.idea/discord.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Yigin/YiginParantezKontrol/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Yigin/YiginParantezKontrol/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Yigin/YiginParantezKontrol/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Yigin/YiginParantezKontrol/YiginOdev.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Yigin/YiginParantezKontrol/out/production/YiginOdev/com/emrecan/yiginOdev/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Yigin/YiginParantezKontrol/out/production/YiginOdev/com/emrecan/yiginOdev/YiginOdev.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Yigin/YiginParantezKontrol/src/com/emrecan/yiginOdev/YiginOdev.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/discord.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stack/src/com/emrecan/stackWithLinkedList/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Stack/src/com/emrecan/stackWithLinkedList/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +24,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/LinkedList" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Stack" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -94,6 +35,8 @@
       <option name="presentableId" value="Default" />
       <updated>1637343746631</updated>
       <workItem from="1637343748245" duration="26000" />
+      <workItem from="1637450972140" duration="527000" />
+      <workItem from="1637586209869" duration="150000" />
     </task>
     <servers />
   </component>
